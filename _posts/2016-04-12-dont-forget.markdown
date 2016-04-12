@@ -3,7 +3,7 @@ layout: default
 modal-id: 0
 date: 2016-04-12
 img: dont-forget.png
-alt: image-alt
+alt: Don't Forget
 project-date: April 2016
 client: General Assembly
 category: Android Development

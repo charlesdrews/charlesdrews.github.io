@@ -3,7 +3,7 @@ layout: default
 modal-id: 1
 date: 2016-04-11
 img: quicktap.png
-alt: image-alt
+alt: QuickTap
 project-date: March 2016
 client: GA + HPE Hackathon
 category: Android Development
