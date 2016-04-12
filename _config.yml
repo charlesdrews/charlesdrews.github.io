@@ -1,10 +1,10 @@
 # Site settings
-title: Freelancer
-email: your-email@domain.com
-url: https://example.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-skills: "Web Developer - Graphic Artist - User Experience Designer"
-meta_author: LastName FirstName
+title: Charles Drews
+email: charlesdrews@gmail.com
+url: https://charlesdrews.github.io
+description: "Android developer with practical experience from a bootcamp created in collaboration with Google, a theoretical foundation from a master’s in CS, a logical foundation from a BA in math, plus communication and management skills from nearly a decade of consulting – looking forward to continued growth as a developer and tackling new challenges"
+skills: "Android Developer"
+meta_author: Drews Charles
 
 # Google webmaster tools
 google_verify:
@@ -31,28 +31,23 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  copyright: Charles Drews 2016
   location: Location
   social: Around the Web
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
   - title: github
-    url: http://github.com/jekyll
+    url: http://github.com/charlesdrews
+  - title: linkedin
+    url: https://www.linkedin.com/in/cdrews
+  - title: devpost
+    url: http://devpost.com/charlesdrews
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: New York, NY
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
