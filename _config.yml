@@ -1,8 +1,8 @@
 # Site settings
 title: Charles Drews
 email: charlesdrews@gmail.com
-url: https://charlesdrews.github.io
-description: "description"
+url: http://charlesdrews.com
+description: "Programming portfolio website for Charles Drews"
 skills: "Android developer, former consultant, obsessive organizer"
 meta_author: Drews Charles
 
@@ -31,19 +31,19 @@ color:
 
 # Footer settings
 footer:
-  copyright: Charles Drews 2016
+  copyright: Charles Drews
   location: Location
   social: Around the Web
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: github
-    url: http://github.com/charlesdrews
   - title: linkedin
     url: https://www.linkedin.com/in/cdrews
-  - title: devpost
-    url: http://devpost.com/charlesdrews
+  - title: github
+    url: http://github.com/charlesdrews
+  - title: medium
+    url: https://medium.com/@charlesdrews
 
 # Postal address (add as many lines as necessary)
 address:
