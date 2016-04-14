@@ -3,7 +3,7 @@ title: Charles Drews
 email: charlesdrews@gmail.com
 url: http://charlesdrews.com
 description: "Programming portfolio website for Charles Drews"
-skills: "Android developer, former consultant, obsessive organizer"
+skills: "Android Developer, Former Consultant, Obsessive Organizer"
 meta_author: Drews Charles
 
 # Google webmaster tools
@@ -24,10 +24,10 @@ disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 18bc9c #80B3FF
-  primary-rgb: "24,288,156" #"128,179,255"
-  secondary: 2c3e50 #FD6E8A
-  secondary-dark: 233140 #A2122F
+  primary: 3475b6
+  primary-rgb: "52,117,182"
+  secondary: 433760
+  secondary-dark: 4e2848
 
 # Footer settings
 footer:
@@ -50,7 +50,7 @@ address:
   - line: New York, NY
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com" target="_blank">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown

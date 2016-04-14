@@ -4,8 +4,7 @@
         <div class="modal-content">
             <div class="close-modal" data-dismiss="modal">
                 <div class="lr">
-                    <div class="rl">
-                    </div>
+                    <div class="rl"></div>
                 </div>
             </div>
             <div class="container">
@@ -16,18 +15,10 @@
                             <hr class="star-primary">
                             <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
                             <p>{{ post.description }}</p>
+                            <div style="text-align:left"><p>{{ post.content }}</p></div>
                             <ul class="list-inline item-details">
-                                <li>Client:
-                                    <strong>{{ post.client }}
-                                    </strong>
-                                </li>
-                                <li>Date:
-                                    <strong>{{ post.project-date }}
-                                    </strong>
-                                </li>
-                                <li>Service:
-                                    <strong>{{ post.category }}
-                                    </strong>
+                                <li>Skills/languages/tools:
+                                    <strong>{{ post.tools }}</strong>
                                 </li>
                             </ul>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
