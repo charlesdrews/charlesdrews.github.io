@@ -7,7 +7,7 @@ alt: QuickTap
 project-date: March 2016
 client: GA + HPE Hackathon
 category: Android Development
-description: |
+description: >
 	Quick Tap was named runner-­up in a hackathon sponsored by HP.
 	The app allows users to search for beers by voice, check them in, and order via SMS.
 	I teamed with 2 other developers and we completed everything within 48 hours to meet the hackathon deadline.
