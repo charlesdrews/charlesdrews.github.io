@@ -7,5 +7,12 @@ alt: QuickTap
 project-date: March 2016
 client: GA + HPE Hackathon
 category: Android Development
-description: Quick Tap was named runner-­up in a hackathon sponsored by HP. The app allows users to search for beers by voice, check them in, and order via SMS. I teamed with 2 other developers and we completed everything within 48 hours to meet the hackathon deadline. Check out the project on <a href="http://devpost.com/software/quicktap">Devpost</a>.<br><br>My contribution was to record voice input from the user, send it to the HPE voice search API, sent results from that to the BrewerDB API, and parsed those results via the Retrofit library. I also built the notifications feature which lets users know when voice search results are ready for review. This was my first hackathon and a lot of fun!
+description: |
+	Quick Tap was named runner-­up in a hackathon sponsored by HP.
+	The app allows users to search for beers by voice, check them in, and order via SMS.
+	I teamed with 2 other developers and we completed everything within 48 hours to meet the hackathon deadline.
+	Check out the project on <a href="http://devpost.com/software/quicktap">Devpost</a>.
+
+	My contribution was to record voice input from the user, send it to the HPE voice search API, sent results from that to the BrewerDB API, and parsed those results via the Retrofit library.
+	I also built the notifications feature which lets users know when voice search results are ready for review. This was my first hackathon and a lot of fun!
 ---
