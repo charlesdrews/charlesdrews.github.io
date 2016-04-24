@@ -12,7 +12,13 @@ tools: Java, Android SDK
 I built this simple to-do lists app as my first project for General Assembly's
 Android development bootcamp. The goals for this project were to understand
 the *Activity Lifecycle* and passing data between activities via *Intents*.
-Check out the project on [Github](https://github.com/charlesdrews/ToDo-Lists){:target="_blank"}.
+
+<div class="center-links">
+    <a class="btn btn-md btn-outline github-project-link" href="https://github.com/charlesdrews/ToDo-Lists" target="_blank">
+        <i class="fa fa-github"></i>
+        <span class="small">View on GitHub</span>
+    </a>
+</div>
 
 Features include:
 

@@ -12,7 +12,13 @@ tools: Java, Android SDK, SQLite
 Neighborhood Guide is an app that allows users to browse a selection of 
 local destinations, save their favorites, and add ratings & notes. This
 app was built as a project for General Assembly's Android development bootcamp.
-Check out the project on [Github](https://github.com/charlesdrews/Neighborhood-Guide){:target="_blank"}.
+
+<div class="center-links">
+    <a class="btn btn-md btn-outline github-project-link" href="https://github.com/charlesdrews/Neighborhood-Guide" target="_blank">
+        <i class="fa fa-github"></i>
+        <span class="small">View on GitHub</span>
+    </a>
+</div>
 
 The list of sample locations is stored locally in a SQLite database, along with
 user input such as favorite status, rating, and notes. Future versions will

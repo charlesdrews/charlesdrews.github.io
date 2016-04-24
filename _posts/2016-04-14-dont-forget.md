@@ -12,12 +12,15 @@ tools: Java, Android SDK, APIs/JSON (Retrofit), NoSQL (Realm)
 Don't Forget is an app that delivers weather, task, and birthday reminders
 to users via notifications custom-timed to fit their schedule.
 The app is very customizable thanks to a robust set of user-controlled
-preferences on the settings screen. Check out the app on
-[GitHub](https://github.com/charlesdrews/Dont-Forget){:target="_blank"}
-and on the Google Play Store:
-<div style="text-align:center">
-    <a href='https://play.google.com/store/apps/details?id=com.charlesdrews.dontforget&utm_source=global_co&utm_medium=prtnr&utm_content=Mar2515&utm_campaign=PartBadge&pcampaignid=MKT-Other-global-all-co-prtnr-ap-PartBadge-Mar2515-1' target="_blank">
-        <img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/apps/en-play-badge.png' width="180"/>
+preferences on the settings screen.
+
+<div class="center-links">
+    <a href='https://play.google.com/store/apps/details?id=com.charlesdrews.dontforget' target="_blank">
+        <img class="play-store-app-badge" alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/apps/en-play-badge.png' />
+    </a>
+    <a class="btn btn-md btn-outline github-project-link" href="https://github.com/charlesdrews/Dont-Forget" target="_blank">
+        <i class="fa fa-github"></i>
+        <span class="small">View on GitHub</span>
     </a>
 </div>
 

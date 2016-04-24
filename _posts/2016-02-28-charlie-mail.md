@@ -14,8 +14,13 @@ General Assembly's Android development bootcamp. I used Google's
 [Gmail API](https://developers.google.com/gmail/api/){:target="_blank"}
 as well as their
 [API Client Library for Java](https://developers.google.com/api-client-library/java/){:target="_blank"}.
-Check out the project on
-[Github](https://github.com/charlesdrews/Email-Client-App/tree/master/CharlieMail){:target="_blank"}.
+
+<div class="center-links">
+    <a class="btn btn-md btn-outline github-project-link" href="https://github.com/charlesdrews/Email-Client-App/tree/master/CharlieMail" target="_blank">
+        <i class="fa fa-github"></i>
+        <span class="small">View on GitHub</span>
+    </a>
+</div>
 
 Features include:
 
