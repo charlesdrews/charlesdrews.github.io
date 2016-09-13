@@ -1,9 +1,10 @@
 ---
 title: Don't Forget
 layout: default
-modal-id: 0
+modal-id: 5
 date: 2016-04-14
-img: dont-forget.png
+small-img: dont-forget.png
+big-img: dont-forget.png
 alt: Don't Forget
 tools: Java, Android SDK, APIs/JSON (Retrofit), NoSQL (Realm)
 

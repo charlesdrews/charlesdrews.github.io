@@ -1,9 +1,10 @@
 ---
 title: Neighborhood Guide
 layout: default
-modal-id: 3
+modal-id: 1
 date: 2016-02-12
-img: neighborhood-guide.png
+small-img: neighborhood-guide.png
+big-img: neighborhood-guide.png
 alt: Neighborhood Guide
 tools: Java, Android SDK, SQLite
 

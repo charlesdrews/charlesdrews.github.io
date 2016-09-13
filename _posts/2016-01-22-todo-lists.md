@@ -1,9 +1,10 @@
 ---
 title: ToDo Lists
 layout: default
-modal-id: 5
+modal-id: 0
 date: 2016-01-22
-img: todo-lists.png
+small-img: todo-lists.png
+big-img: todo-lists.png
 alt: ToDo Lists
 tools: Java, Android SDK
 

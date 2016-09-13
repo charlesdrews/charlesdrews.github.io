@@ -1,9 +1,10 @@
 ---
 title: Charlie Mail
 layout: default
-modal-id: 4
+modal-id: 2
 date: 2016-02-28
-img: charlie-mail.png
+small-img: charlie-mail.png
+big-img: charlie-mail.png
 alt: Charlie Mail
 tools: Java, Android SDK, APIs/JSON
 
