@@ -2,7 +2,7 @@
 title: Back-End Web Development
 layout: default
 modal-id: 8
-date: 2014-08-01
+date: 2014-08-03
 small-img: web-dev.png
 big-img: web-dev.png
 alt: Back-End Web Development

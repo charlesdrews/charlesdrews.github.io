@@ -2,7 +2,7 @@
 title: C Programming
 layout: default
 modal-id: 9
-date: 2014-05-01
+date: 2014-08-02
 small-img: c-programming.png
 big-img: c-programming.png
 alt: C Programming

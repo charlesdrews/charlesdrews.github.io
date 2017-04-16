@@ -24,4 +24,4 @@ The project explores the optimal topology for interconnection circuitry between 
 The code for the project was written in Python.
 I also used the [Multi2Sim](http://www.multi2sim.org/) simulator to test my theoretical hardware topologies.
 - [PDF of the Report](https://github.com/charlesdrews/NoC-topology/blob/master/Drews_Final_Report.pdf)
-- [Repo on GitHub](https://github.com/charlesdrews/vm-profiler)
+- [Repo on GitHub](https://github.com/charlesdrews/NoC-topology)
